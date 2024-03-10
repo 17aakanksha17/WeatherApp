@@ -1,0 +1,21 @@
+body{
+     background-image: url(https://cdn.pixabay.com/photo/2020/02/05/15/47/natural-4821583_960_720.png); /* night */
+     background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+ position: relative; 
+}
+.parent{
+    height: 95vh;
+    width: 95vw;
+    /* margin: auto; */
+   display: flex;
+  justify-content:  center;
+  align-items: center;
+   
+} 
+
+.card {
+    padding:10px; 
+border: 2px solid green ;
+}
